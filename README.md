@@ -1,4 +1,4 @@
-# UMBS Biotron Project
+# UMBS Fine root function response to girdling disturbance
 
 ## Authors 
 
@@ -8,7 +8,7 @@ Kayla C. Mathes, Christopher M. Gough
 Assessing fine-root physiological response to experimental tree girdling to better understand mechanisms underlying belowground compensatory growth and carbon cycling responses to forest disturbance. 
 
 ## Location 
-The "Biotron" at the University of Michigan Biological Station, Pellston, MI, USA. The biotron is a 30m root window tunnel with direct access to root systems of a Northern temperate forest. 
+TBD
 
 ## Study Design 
 
